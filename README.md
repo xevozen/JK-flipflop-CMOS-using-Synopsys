@@ -85,15 +85,15 @@ flop, there are no invalid states even if both ‘J’ and ‘K’ flip flop are
 
 <p align="center">
 <img src="media/add_model_files.png"></br>
-  Figure 8 : asdf
+  Figure 8 : Add Model Files
 </p>
 <p align="center">
 <img src="media/create_analyses.png"></br>
-  Figure 9 : asdf
+  Figure 9 : Create Analyses
 </p>
 <p align="center">
 <img src="media/waveform_setup.png"></br>
-  Figure 10 : asdf
+  Figure 10 : Waveform Setup
 </p>
 
 ### Netlist
@@ -355,11 +355,12 @@ PrimeSim Successfully Completed at Sat Feb 26 15:32:07 2022
 ## Conclusion
 
 As per the initial design the circuit is implemented successfully. Futher improvement is possible in the design. This version suffers race around condition moreover PMOS and NMOS are not exactly identical, leading to some unwanted outputs, which can be improved further.
+
 <img src="media/warning-markup.svg">
 
 ## Author
 
-Souhardhya Paul, B.Tech, ECE, Netaji Subhash Engineering College, Kolkata.
+Souhardhya Paul, B.Tech, Electronics and Communication Engineering, Netaji Subhash Engineering College, Kolkata.
 
 ## Acknowledgement
 
@@ -367,10 +368,11 @@ Souhardhya Paul, B.Tech, ECE, Netaji Subhash Engineering College, Kolkata.
 2. [Synopsys India](https://www.synopsys.com/)
 3. [VLSI System Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
 4. Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd. - kunalpghosh@gmail.com
-5. Chinmay panda, IIT Hyderabad
+5. Chinmay Panda, IIT Hyderabad
 6. Sameer Durgoji, NIT Karnataka
 
 ## References
 
 [1] F. Stas and D. Bol, "A 0.4-V 0.66-fJ/Cycle Retentive True-Single-Phase-Clock 18T Flip-Flop in 28-nm Fully-Depleted SOI CMOS," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 65, no. 3, pp. 935-945, March 2018, doi: 10.1109/TCSI.2017.2763423.
+
 [2] Design of Flip-Flops for High Performance VLSI Applications using Deep Submicron CMOS Technology, Rishikesh V. Tambat and Sonal A.Lakhotiya. Article published in International Journal of Current Engineering and Technology, Vol.4,No.2 (April- 2014).
